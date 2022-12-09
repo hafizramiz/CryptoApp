@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479320054228",
+    "project_id": "crytocurrencyapp",
+    "storage_bucket": "crytocurrencyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479320054228:android:b31f2f813d64557e9dde41",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479320054228-3usosmb4upf3jcftuka3mfn8iuontkb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUJ5eikgL9PcoxSezeIwLbl1StYhIGmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479320054228-3usosmb4upf3jcftuka3mfn8iuontkb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
