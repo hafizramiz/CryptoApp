@@ -1,4 +1,4 @@
-# cryptocurrency
+# CryptoApp
 
 A new Flutter project.
 
