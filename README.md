@@ -40,7 +40,7 @@ https://github.com/hafizramiz/CryptoApp/assets/102408138/b9cc94ad-e189-41df-8616
 
 ## 🤓 Author
 
-I'm Hafiz Ramiz, a passionate Mobile Developer with a love for Flutter. 
+I'm Hafiz Ramiz, a passionate Mobile Developer with a love for Flutter and Jetpcak Compose. 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hafizramiz/) and [GitHub](https://github.com/hafizramiz).
 
 ## 🌟 Show Your Support
