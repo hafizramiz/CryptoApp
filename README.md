@@ -35,7 +35,7 @@ To run this app locally, follow these steps:
 3. Run the app: `flutter run`
 
 ## 📸 Screenshots
-https://github.com/hafizramiz/CryptoApp/assets/102408138/da67e9d6-ab36-425a-89f8-d5301ab6a7d6
+https://github.com/hafizramiz/CryptoApp/assets/102408138/b9cc94ad-e189-41df-8616-15583891cff5
 
 
 ## 🤓 Author
