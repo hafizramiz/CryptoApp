@@ -30,7 +30,7 @@ This Flutter app is designed for tracking the crypto markets!
 
 To run this app locally, follow these steps:
 
-1. Clone this repository: https://github.com/hafizramiz/CryptoApp.git
+1. Clone this repository: `https://github.com/hafizramiz/CryptoApp.git`
 2. Navigate to the project folder:  `cd your-repo`
 3. Run the app: `flutter run`
 
