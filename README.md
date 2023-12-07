@@ -9,7 +9,6 @@ This Flutter app is designed for tracking the crypto markets!
 
 ## ✨ Features
 
-- ** Share your favorite images with friends and colleagues effortlessly  ** .
 
 ## Technologies Used
 
