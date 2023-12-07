@@ -17,8 +17,9 @@ This Flutter app is designed for tracking the crypto markets!
 - **Service Locator Package:** get_it
 - **Backend Service:** Firebase Storage
 - **Design Pattern:** Singleton
-- **Additional Packages:**  cupertino_icons: ^1.0.2
-  firebase_auth: ^3.11.2
+- **Additional Packages:**
+- cupertino_icons: ^1.0.2
+-firebase_auth: ^3.11.2
   firebase_core: ^1.24.0
   provider: ^6.0.4
   animated_bottom_navigation_bar: ^1.1.0
